@@ -1,5 +1,6 @@
 # Augment-Reality
 Implementing an AR application step by step using planar homographies
+Run harryPotterize.m to get the following result
 
 Original image
 
